@@ -37,27 +37,20 @@ class Inicio extends React.Component {
               <h1>Desarollo Hardaware y software</h1>
               <p>
                 Tenemos conocimiento en desarrollo de PCB y elecetrónica en general. Además de manejo de herramientas de desarrollo
-                web e IoT usando Arduino.  
+                web
 
               </p>
-              <button className="btn btn-primary">
-                  Ver más ...
-              </button>
+            </div>
+            <hr />
+            <div className="col-6">AUTOMATIZACION E IOT</div>
+            <div className="col-6">
+              <img className="Col_inicio" src={img3} alt="First slide" height="auto" widht="100%" />
             </div>
             <hr />
             <div className="col-6">
-              <img className="Col_inicio" src={img4} alt="First slide"  />
+              <img className="Col_inicio" src={img4} alt="First slide" height="auto" widht="100%" />
             </div>
-            <div className="col-6">
-              <h1>E - COMMERCE</h1>
-              <p>
-                Manejo de herramientas de diseño web. Facil integracion de pluggins de dieseño e interaccion con el usuario, logrando
-                intercomunicacion con redes sociales, articulos favoritos y carrito de compras 
-
-              </p>
-              <button className="btn btn-primary">
-                  Ver más ...
-              </button></div>
+            <div className="col-6">E - COMMERCE</div>
           </div>
         </div>
         <div></div>

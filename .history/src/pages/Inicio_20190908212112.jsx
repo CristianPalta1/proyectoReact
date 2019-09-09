@@ -52,7 +52,7 @@ class Inicio extends React.Component {
               <h1>E - COMMERCE</h1>
               <p>
                 Manejo de herramientas de diseño web. Facil integracion de pluggins de dieseño e interaccion con el usuario, logrando
-                intercomunicacion con redes sociales, articulos favoritos y carrito de compras 
+                intercomunicacion con redes sociales, 
 
               </p>
               <button className="btn btn-primary">

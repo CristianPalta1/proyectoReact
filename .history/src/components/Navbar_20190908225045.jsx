@@ -24,11 +24,7 @@ class Navbar extends React.Component {
                   Contactanos
                 </Link>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#">
-                  Servicios
-                </a>
-              </li>
+              
             </ul>
             {/* <span className="navbar-text">Navbar text with an inline element</span> */}
           </div>

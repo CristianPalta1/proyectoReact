@@ -48,16 +48,7 @@ class Inicio extends React.Component {
             <div className="col-6">
               <img className="Col_inicio" src={img4} alt="First slide"  />
             </div>
-            <div className="col-6">
-              <h1>E - COMMERCE</h1>
-              <p>
-                Manejo de herramientas de diseño web. Facil integracion de pluggins de dieseño e interaccion con el usuario, logrando
-                intercomunicacion con redes sociales, articulos favoritos y carrito de compras 
-
-              </p>
-              <button className="btn btn-primary">
-                  Ver más ...
-              </button></div>
+            <div className="col-6">E - COMMERCE</div>
           </div>
         </div>
         <div></div>

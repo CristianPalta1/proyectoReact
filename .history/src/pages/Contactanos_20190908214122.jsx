@@ -6,7 +6,7 @@ import img2 from '../assets/images/hardware.jpg';
 import img3 from '../assets/images/automatizacion.jpg';
 import img4 from '../assets/images/ecommerce.jpg';
 
-class Inicio extends React.Component {
+class Contacto extends React.Component {
   render() {
     return (
       <div className=" container text-center">
@@ -66,4 +66,4 @@ class Inicio extends React.Component {
   }
 }
 
-export default Inicio;
+export default Contacto;

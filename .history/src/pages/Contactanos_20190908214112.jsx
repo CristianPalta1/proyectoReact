@@ -66,4 +66,4 @@ class Inicio extends React.Component {
   }
 }
 
-export default Inicio;
+export default Contacto;

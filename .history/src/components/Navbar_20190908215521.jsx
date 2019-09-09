@@ -13,20 +13,20 @@ class Navbar extends React.Component {
           className="navbar navbar-expand-lg navbar-light bg-light fixed-top"
           role="navigation"
         >
-          <Link className="navbar-brand" to = "/">
+          <a className="navbar-brand" href="#">
             IRRIGATIC
-          </Link>
+          </a>
           <div className="collapse navbar-collapse" id="navbarText">
             <ul className="navbar-nav mr-auto">
               
               <li className="nav-item">
-                <Link className="nav-link" to="/contactanos">
-                  Contactanos
+                <Link className="nav-link" href="#">
+                  Quienes Somos
                 </Link>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">
-                  Servicios
+                  Contactanos
                 </a>
               </li>
             </ul>

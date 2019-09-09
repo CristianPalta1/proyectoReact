@@ -48,11 +48,10 @@ class Inicio extends React.Component {
             <div className="col-6">
               <img className="Col_inicio" src={img4} alt="First slide"  />
             </div>
-            <div className="col-6">
-              <h1>E - COMMERCE</h1>
+            <div className="col-6"><h1>Desarollo Hardaware y software</h1>
               <p>
-                Manejo de herramientas de diseño web. Facil integracion de pluggins de dieseño e interaccion con el usuario, logrando
-                intercomunicacion con redes sociales, articulos favoritos y carrito de compras 
+                Tenemos conocimiento en desarrollo de PCB y elecetrónica en general. Además de manejo de herramientas de desarrollo
+                web e IoT usando Arduino.  
 
               </p>
               <button className="btn btn-primary">
