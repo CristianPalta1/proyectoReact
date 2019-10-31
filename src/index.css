@@ -1,7 +1,8 @@
 body {
+  background-color: #F4F4F7;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",'Lato', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -22,10 +23,6 @@ code {
   -moz-osx-font-smoothing: grayscale;
 }
 
-body {
-  font-family: 'Lato', 'Helvetica Neue', sans-serif;
-  background-color: #F4F4F7;
-}
 
 h1 {
   font-family: 'Anton', sans-serif;

@@ -1,16 +1,16 @@
 import React from "react";
-import Slider1 from '../assets/images/fondo4.jpg';
-import img1 from '../assets/images/3dprint.jpg';
-import img2 from '../assets/images/hardware.jpg';
-import img3 from '../assets/images/automatizacion.jpg';
-import img4 from '../assets/images/ecommerce.jpg';
+// import Slider1 from '../assets/images/fondo4.jpg';
+// import img1 from '../assets/images/3dprint.jpg';
+// import img2 from '../assets/images/hardware.jpg';
+// import img3 from '../assets/images/automatizacion.jpg';
+// import img4 from '../assets/images/ecommerce.jpg';
 
 class Inicio extends React.Component {
   render() {
     return (
       <div className="container text-center">
       
-        <img src={Slider1} alt="First slide" height="auto" widht="100%" />
+        {/* <img src={Slider1} alt="First slide" height="auto" widht="100%" /> */}
         <div className="text-center">
           <h1>SERVICIO</h1>
           <div className="row">
@@ -23,21 +23,21 @@ class Inicio extends React.Component {
               </p>
             </div>
             <div className="col-6">
-              <img src={img1} alt="First slide" height="auto" widht="50%" />
+              {/* <img src={img1} alt="First slide" height="auto" widht="50%" /> */}
             </div>
             <hr />
             <div className="col-6">
-              <img src={img2} alt="First slide" height="auto" widht="100%" />
+              {/* <img src={img2} alt="First slide" height="auto" widht="100%" /> */}
             </div>
             <div className="col-6">DESARROLLO SOFTWARE Y HARDWARE</div>
             <hr />
             <div className="col-6">AUTOMATIZACION E IOT</div>
             <div className="col-6">
-              <img src={img3} alt="First slide" height="auto" widht="100%" />
+              {/* <img src={img3} alt="First slide" height="auto" widht="100%" /> */}
             </div>
             <hr />
             <div className="col-6">
-              <img src={img4} alt="First slide" height="auto" widht="100%" />
+              {/* <img src={img4} alt="First slide" height="auto" widht="100%" /> */}
             </div>
             <div className="col-6">E - COMMERCE</div>
           </div>
