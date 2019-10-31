@@ -28,6 +28,14 @@ h1 {
   font-family: 'Anton', sans-serif;
 }
 
+input {
+  font-family: 'Anton', sans-serif;
+}
+
+p{
+  font-family: 'Anton', sans-serif;
+}
+
 a.link-unstyled {
   color: inherit;
 }

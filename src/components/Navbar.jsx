@@ -13,35 +13,20 @@ class Navbar extends React.Component {
           className="navbar navbar-expand-lg navbar-light bg-light fixed-top"
           role="navigation"
         >
-          <a className="navbar-brand" href="#">
+          <Link className="navbar-brand" to = "/">
             IRRIGATIC
-          </a>
-          <button
-            className="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarText"
-            aria-controls="navbarText"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span className="navbar-toggler-icon"></span>
-          </button>
+          </Link>
           <div className="collapse navbar-collapse" id="navbarText">
             <ul className="navbar-nav mr-auto">
-              <li className="nav-item active">
+              
+              <li className="nav-item">
+                <Link className="nav-link" to="/contactanos">
+                  Contactanos
+                </Link>
+              </li>
+              <li className="nav-item">
                 <a className="nav-link" href="#">
                   Servicios
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#">
-                  Quienes Somos
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#">
-                  Contactanos
                 </a>
               </li>
             </ul>
